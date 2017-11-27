@@ -1,0 +1,17 @@
+# Compiled files
+*.class
+target/
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Eclipse preferences
+.settings/
+
+# Machine-specific settings
+pom.properties
